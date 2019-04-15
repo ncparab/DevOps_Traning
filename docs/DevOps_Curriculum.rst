@@ -189,4 +189,3 @@ Table of Content
 |         | Continuous release - deploying application in Azure WebApps |             |
 +---------+-------------------------------------------------------------+-------------+
 
-|         | 
