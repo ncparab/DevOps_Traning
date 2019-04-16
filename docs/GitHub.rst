@@ -5,15 +5,16 @@ GitHub
 Introduction to Version Control System
 ----------------------------------------
 
+.. image:: images/chapter2/versioncontrol.PNG
+   :width: 300px
+   :height: 100px
+   
 A version control system is a special application that stores and manages every revision of your files and code. Many developers and 
 organizations use version control to collaborate on source code, manage releases, and roll back to previous versions when bugs are 
 discovered.
 Setting up a version control system is easy. The hard part is learning to use it, and then incorporate it in your daily workflow.
 
-.. image:: images/chapter2/versioncontrol.PNG
-   :width: 400px
-   :height: 200px
-   
+
 Need of Version Controlling
 ---------------------------
 
