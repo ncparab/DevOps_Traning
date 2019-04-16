@@ -10,7 +10,7 @@ organizations use version control to collaborate on source code, manage releases
 discovered.
 Setting up a version control system is easy. The hard part is learning to use it, and then incorporate it in your daily workflow.
 
-.. image:: versioncontrol.PNG
+.. image:: images/chapter2/versioncontrol.PNG
    :width: 400px
    :height: 200px
    
