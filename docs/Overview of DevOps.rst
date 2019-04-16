@@ -2,7 +2,7 @@
 Overview of Devops
 ####################
 
-.. image:: /images/chapter1/devops1.PNG
+.. image:: images/chapter1/devops1.PNG
   :width: 400px
   :height: 200px
   :alt: alternate text
@@ -73,7 +73,7 @@ to be 35 percent less and IT costs 30 percent lower.
 What id DevOps?
 ----------------
 
-.. image:: /images/chapter1/devops.PNG
+.. image:: images/chapter1/devops.PNG
   :width: 400px
   :height: 200px
   :alt: alternate text
@@ -164,7 +164,7 @@ forward to seeing the landscape evolve further over the coming year.
 DevOps Engineer Skills
 -----------------------
 
-.. image:: /images/chapter1/skills.PNG
+.. image:: images/chapter1/skills.PNG
   :width: 400px
   :height: 200px
   :alt: alternate text
@@ -224,7 +224,7 @@ When developers communicate with each other effectively, applications can be del
 Devops Delivery Pipeline
 -------------------------
 
-.. image:: /images/chapter1/pipelineprocess.png
+.. image:: images/chapter1/pipelineprocess.png
   :width: 400px
   :height: 200px
   :alt: alternate text
@@ -276,7 +276,7 @@ Devops Echosystem
 
 you can see the complete DevOps ecosystem infographic here:
 
-.. image:: /images/chapter1/3649353-thumb.PNG
+.. image:: images/chapter1/3649353-thumb.PNG
   :width: 600px
   :height: 400px
   :alt: alternate text
