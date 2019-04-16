@@ -2,6 +2,11 @@
 Overview of Devops
 ####################
 
+.. image:: /images/chapter1/devops1.PNG
+  :width: 400px
+  :height: 200px
+  :alt: alternate text
+
 DevOps automates and speeds software delivery. It makes your process and your products more reliable. When you implement DevOps 
 technologies and practice, you will provide value to your customers faster—in the form of new and innovative products or enhancements 
 to existing ones.
@@ -67,6 +72,11 @@ to be 35 percent less and IT costs 30 percent lower.
 
 What id DevOps?
 ----------------
+
+.. image:: /images/chapter1/devops.PNG
+  :width: 400px
+  :height: 200px
+  :alt: alternate text
 
 DevOps is a practice that unifies people, process and technology across development and IT in five core practices: planning and tracking,
 development, build and test, delivery and monitoring and operations. When practicing DevOps, development, IT operations, quality 
@@ -154,12 +164,16 @@ forward to seeing the landscape evolve further over the coming year.
 DevOps Engineer Skills
 -----------------------
 
+.. image:: /images/chapter1/skills.PNG
+  :width: 400px
+  :height: 200px
+  :alt: alternate text
+
 The aim of using DevOps is to alter and improve the relationship between development and IT operations, advocating better communication
 and collaboration between the two units. Although it may seem somewhat simple, there is much more needed from a DevOps engineer to 
 successfully deploy the code and bind the two units together successfully.
 
 Following are the skills reqired :
-=====================================
 
 1) Flexibility
 +++++++++++++++
@@ -210,6 +224,11 @@ When developers communicate with each other effectively, applications can be del
 Devops Delivery Pipeline
 -------------------------
 
+.. image:: /images/chapter1/pipelineprocess.png
+  :width: 400px
+  :height: 200px
+  :alt: alternate text
+
 Every organization has a deployment pipeline. They may not call it that, but to get their application from concept to production, they all work through steps that become sequential and eventually routine.
 
 The benefit of defining a pipeline is:
@@ -250,10 +269,6 @@ Pipeline components are often very similar:
  
    b. To Production
 
-.. image :: 
-   :width: 600px
-   :height:200px
-
 Creating, documenting, and building conversations around your delivery pipeline are the best way to transition teams to DevOps. This will slowly but surely enhance your development processes.
 
 Devops Echosystem
@@ -261,11 +276,10 @@ Devops Echosystem
 
 you can see the complete DevOps ecosystem infographic here:
 
-
-
-.. image :: 
-   :width: 600px
-   :height:200px
+.. image:: /images/chapter1/3649353-thumb.PNG
+  :width: 600px
+  :height: 400px
+  :alt: alternate text
    
 1) Plan
 ++++++++
