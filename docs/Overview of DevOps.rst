@@ -158,8 +158,141 @@ The aim of using DevOps is to alter and improve the relationship between develop
 and collaboration between the two units. Although it may seem somewhat simple, there is much more needed from a DevOps engineer to 
 successfully deploy the code and bind the two units together successfully.
 
-- Following are the skills reqired :
+Following are the skills reqired :
 =====================================
+
+1) Flexibility
++++++++++++++++
+
+Coding is an on-going process, ever changing and always needing updating. To be a successful and effective DevOps engineer the ideal candidate must have the ability to continuously develop and integrate new systems and operations into the code. A DevOps engineer must have flexible working skills and adapt to the changing code.
+Engineers must be comfortable moving from one area of software construction to another, be it integration, testing, releasing or deployment.
+Continuous Integration, for example, requires the technical skills to manage change quickly and efficiently, as well as being able to work collaboratively in a team to guarantee everyone is working towards the same goal.
+
+2) Security Skills
++++++++++++++++++++
+
+As with many other skilled areas security is always of the utmost importance, especially in coding. An easy way for hackers to get into systems is through vulnerabilities, undermining the system that is in place to get to the data.
+   A DevOps engineer must have security skills when being employed because it is paramount to build-in secure software from the start of deployment, as opposed to adding it in later. If security is not in place from the outset then here is more chance that hackers could write in damaging code to the network. Therefore, when recruiting for the next DevOps engineer ensure security is on the top of the list of skills.
+   
+3) Collaboration
++++++++++++++++++
+
+When it comes to a successful DevOps engineer, the ability to perform as a one-man band will not pass muster – collaboration is in fact central to the DevOps concept, bringing together software development and software operation. A DevOps engineer must have the ability to work in a team, with collaboration providing more cross-functionality within the DevOps process.
+
+4) Scripting Skills
+++++++++++++++++++++
+
+Though it may sound obvious, any developer must have high-quality skills in scripting code. Whether its JavaScript, Python, Perl, or Ruby, a successful DevOps engineer must be able to write code.
+
+From writing manual code to replacing manual processes such as assigning IP addresses or DNS codes, there must be someone with the ability to write them and that’s what the perfect candidate should be able to do.
+
+5) Decision-making
++++++++++++++++++++
+
+An indecisive candidate is not one that you want for your business DevOps engineer. The successful candidate will have the ability to confidently and quickly make a decision is the hustle-bustle environment a DevOps engineer works in.
+
+The ever-changing nature of code brings the necessity to quickly make the decision on how to fix any incoherent elements of the code. Decisiveness must be an element to consider when employing a DevOps engineer, because making quick decisions allows engineers to maintain the ability of rapid development and deployment of new coding changes.
+
+6)  Infrastructure Knowledge
++++++++++++++++++++++++++++++
+
+Scripting is just one of the key skills a developer should have, just ahead of cloud and infrastructure experience. Engineers should have a working understanding of data centre-based and cloud infrastructure components. This includes elements such as how software is networked to running virtual networks.
+
+Without the ability to understand infrastructure it could prove somewhat difficult to be the full package DevOps engineer. Incorporating infrastructure skills will enable an effective DevOps engineer to design and deploy applications effectively using the best of the best platforms.
+
+7) Soft Skills
++++++++++++++++
+
+As mentioned above being a DevOps engineer is no one-man job, so in that case, any future employee must have soft skills as well as technical. Bound on trust, DevOps culture enables all workers to be communicative and understanding to the process and if changes need to be made.
+
+When developers communicate with each other effectively, applications can be delivered in a much shorter period of time than if some workers were absent to information. As well as quicker market deployment, having good communication will lead to fewer errors and therefore lower costs and improve the quality of code.
+
+Devops Delivery Pipeline
+-------------------------
+
+Every organization has a deployment pipeline. They may not call it that, but to get their application from concept to production, they all work through steps that become sequential and eventually routine.
+
+The benefit of defining a pipeline is:
+
+1) Knowing what you have
+ 
+2) Knowing what you don’t have
+ 
+3) Knowing your bottlenecks
+ 
+4) Seeing your whole operation in one place
+ 
+5) And finally having an opportunity to improve
+
+Pipeline components are often very similar:
+
+1) Plan
+ 
+   a. Roadmap
+ 
+   b. Tickets
+ 
+   c. Backlog
+ 
+2) Code
+3) Build
+4) Test
+
+   a. Unit Test
+ 
+   b. Integration Test
+ 
+   c. Functional Test
+ 
+5) Release
+
+   a. To Staging
+ 
+   b. To Production
+
+.. image :: 
+   :width: 600px
+   :height:200px
+
+Creating, documenting, and building conversations around your delivery pipeline are the best way to transition teams to DevOps. This will slowly but surely enhance your development processes.
+
+Devops Echosystem
+------------------
+
+you can see the complete DevOps ecosystem infographic here:
+
+
+
+.. image :: 
+   :width: 600px
+   :height:200px
+   
+1) Plan
+++++++++
+
+Planning is the initial stage, and it covers the first steps of project management. The project and product ideas are presented and analyzed, in groups, alone, or on whiteboards. The developer, team, and organization decide what they want and how they want it and assign tasks to developers, QA engineers, product managers, etc. This stage requires lots of analysis of problems and solutions, collaboration between team members, and the ability to capture and track all that is being planned.
+
+2) Devlop
+++++++++++
+
+Developing is the stage where the ideas from planning are executed into code. The ideas come to life as a product. This stage requires software configuration management, repository management and build tools, and automated Continuous Integration tools for incorporating this stage with the following ones.
+
+3) Test
+++++++++
+
+A crucial part that examines the product and service and makes sure they work in real time and under different conditions (even extreme ones, sometimes). This stage requires many different kinds of tests, mainly functional tests, performance or load tests, and service virtualization tests. It’s also important to test compatibility and integrations with third-party services. The data from the tests needs to be managed and analyzed in rich reports for improving the product according to test results.
+
+4) Release
++++++++++++
+
+Once a stage that stood out on its own and caused many a night with no sleep for developers, now the release stage is becoming agile and integrating with the Continuous Delivery process. Therefore, the discussion of this part can’t revolve only around tools, but rather needs to discuss methodologies as well. Regarding tools, this stage requires deployment tools.
+
+5) Operate
++++++++++++
+
+We now have a working product, but how can we maximize the features we’ve planned, developed, tested, and released? This is what this stage is for. Implementing the best UX is a big part of this, monitoring infrastructure, APMs, and aggregators, and analyzing Business Intelligence (BI). This stage ensures our users get the most out of the product and can use it error-free.
+
+
 
 
 
