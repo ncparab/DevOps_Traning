@@ -186,7 +186,7 @@ Continuous Integration, for example, requires the technical skills to manage cha
 +++++++++++++++++++
 
 As with many other skilled areas security is always of the utmost importance, especially in coding. An easy way for hackers to get into systems is through vulnerabilities, undermining the system that is in place to get to the data.
-   A DevOps engineer must have security skills when being employed because it is paramount to build-in secure software from the start of deployment, as opposed to adding it in later. If security is not in place from the outset then here is more chance that hackers could write in damaging code to the network. Therefore, when recruiting for the next DevOps engineer ensure security is on the top of the list of skills.
+A DevOps engineer must have security skills when being employed because it is paramount to build-in secure software from the start of deployment, as opposed to adding it in later. If security is not in place from the outset then here is more chance that hackers could write in damaging code to the network. Therefore, when recruiting for the next DevOps engineer ensure security is on the top of the list of skills.
    
 3) Collaboration
 +++++++++++++++++
