@@ -35,3 +35,12 @@ Pre-requisites
 
 - Any Scripting Language Knowledge
 - Linux Fundamentals
+
+
+
+.. toctree::
+   :maxdepth: 2
+
+   DevOps_Curriculum
+   Overview of DevOps
+   GitHub
